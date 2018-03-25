@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fortune</string>
+    <string name="button_start">開運</string>
+    <string name="button_back">戻る</string>
+    <string name="result_best">大吉</string>
+    <string name="result_better">中吉</string>
+    <string name="result_good">吉</string>
+    <string name="no_result">想定外</string>
+</resources>
